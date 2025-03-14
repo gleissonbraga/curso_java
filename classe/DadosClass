@@ -1,0 +1,6 @@
+TÓPICOS DE CLASSES
+
+STATIC: refere-se a um valor fixo para aquele atributo ou método,
+    onde será acessado nas instâncias, porém é da classe em especifico.
+    E pode ser acessado através da classe, não necessita de uma instância.
+
