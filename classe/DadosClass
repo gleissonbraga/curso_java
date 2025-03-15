@@ -4,3 +4,7 @@ STATIC: refere-se a um valor fixo para aquele atributo ou método,
     onde será acessado nas instâncias, porém é da classe em especifico.
     E pode ser acessado através da classe, não necessita de uma instância.
 
+THIS: é utilizado para referênciar os métodos da instância/atributos
+    ou no construtor, o método diz não pode ser utilizado em
+    atributos ou métodos staticos.
+
